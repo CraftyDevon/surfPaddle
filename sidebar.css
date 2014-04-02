@@ -1,0 +1,62 @@
+.biobox{
+	position: relative;
+	height: 250px;
+	text-align: center;
+}
+
+.biobox h3{
+	font-family: 'Helvetica';
+	text-transform: uppercase;
+	color: #6b99c7;
+}
+
+.biobox ul{
+	margin: 20px 0 0 20px;
+}
+
+.biobox ul li{
+	float: left;
+	padding: 5px;
+	text-align: center;
+}
+
+.biobox ul li a{
+	text-decoration: none;
+	color: #6b99c7;
+	font-family: 'Helvetica';
+	letter-spacing: .5px;
+	font-size: 14px;
+}
+
+.adbox{
+	position: relative;
+	height: 375px;
+}
+
+.adbox a.about{
+
+	float: right;
+	color: #a3b3bf;
+	padding: 5px 0 0 0;
+		font-family: 'Helvetica';
+
+}
+
+.sidebox{
+	position: relative;
+	height: 250px;
+}
+
+.sidebox h4{
+	padding: 0 0 10px 0;
+	font-family: 'Helvetica';
+	color: #4b91c6;
+	text-transform: uppercase;
+}
+
+.sidebox p{
+	font-family: 'Helvetica';
+	font-size: 14px;
+	line-height: 18px;
+	
+}
